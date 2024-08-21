@@ -1,8 +1,8 @@
 ; Equipe 6
 ; Arthur Batista dos Santos Borges, João Paulo Cardoso da Paixão e Gabriel Baptista de Abreu
-; Questão 6: Escreva um programa em Assembly que leia N
-nomes e ordene-os pelo tamanho. No final, o algoritmo
-deve mostrar todos os nomes ordenados.
+; Questão 6: Escreva um programa em Assembly que leia N nomes e ordene-os pelo tamanho. No final, o algoritmo deve mostrar todos os nomes ordenados.
+
+
 
 
 section .data
